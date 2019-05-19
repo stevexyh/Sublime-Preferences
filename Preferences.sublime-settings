@@ -1,0 +1,20 @@
+{
+	"auto_complete_commit_on_tab": true,
+	"color_inactive_tabs": true,
+	"color_scheme": "Packages/Theme - Afterglow/Afterglow-monokai.tmTheme",
+	"folder_no_icon": false,
+	//"font_face": "",
+	"font_size": 18,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+
+	//https://github.com/YabataDesign/afterglow-theme
+	"sidebar_row_padding_medium": true,
+	"sidebar_size_14": true,
+	"status_bar_brighter": true,
+	"statusbar_size_12": true,
+	"tabs_small": true,
+	"theme": "Afterglow-blue.sublime-theme"
+}

@@ -1,0 +1,35 @@
+{
+	"bootstrapped": true,
+	"channels":
+	[
+		"/Users/apple/channel_v3.json ",
+		"https://raw.githubusercontent.com/A1k4id/channel_v3.json/master/channel_v3.json"
+	],
+	"debug": true,
+	"downloader_precedence":
+	{
+		"linux":
+		[
+			"urllib",
+			"curl",
+			"wget"
+		],
+		"osx":
+		[
+			"curl",
+			"wget"
+		],
+		"windows":
+		[
+			"wininet"
+		]
+	},
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Package Control",
+		"Verilog"
+	]
+}
