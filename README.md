@@ -1,5 +1,7 @@
 # Sublime-Preferences
+> Steve X  
+> stevexyh@hotmail.com
+
 Customized Sublime Text preferences configuration files.
 ---
-Steve X  
-stevexyh@hotmail.com
+README.md
