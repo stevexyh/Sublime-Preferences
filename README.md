@@ -1,2 +1,5 @@
 # Sublime-Preferences
-Customized Sublime Text preferences configuration files.    --by Steve X
+Customized Sublime Text preferences configuration files.
+---
+Steve X
+stevexyh@hotmail.com
